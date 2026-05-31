@@ -7,11 +7,13 @@
 I like to figure out how things work and fix them when they don't. 
 
 * **The Goal:** Build cool stuff and solve tricky problems.
-
-* **The Reality:** If I can't solve it, I defintely have a friend who can. 
+* **The Reality:** If I can't solve it, I definitely have a friend who can. 
 
 ---
 
-Checkout my team's last hackathon entry: https://github.com/slowTake/Reilu_SustainableShopper
+<b>Checkout my team's latest hackathon entries:</b>
+
+* 🏅 **Top 5 Finalist:** [Reilu (Sustainable Shopper)](https://github.com/slowTake/Reilu_SustainableShopper)
+* 🏆 **Top 3 Finish:** [RallyCam](https://github.com/slowTake/RallyCam)
 
 ---
