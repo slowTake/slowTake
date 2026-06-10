@@ -20,7 +20,7 @@ Unsurprisingly, hackathons have become my new obsession.
 
 <b>Checkout my team's latest hackathon entries:</b>
 
-* 🏅 **Top 5 Finalist:** [Reilu (Sustainable Shopper)](https://github.com/slowTake/Reilu_SustainableShopper)
-* 🏆 **Top 3 Finish:** [RallyCam](https://github.com/slowTake/RallyCam)
+* 🏅 **Top 5 Finalist:** [Reilu (Sustainable Shopper)](https://github.com/slowTake/Reilu_SustainableShopper) May 2026
+* 🏆 **Top 3 Finish:** [RallyCam](https://github.com/slowTake/RallyCam) April 2026
 
 ---
