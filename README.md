@@ -24,3 +24,11 @@ Unsurprisingly, hackathons have become my new obsession.
 * 🏆 **Top 3 Finish:** [RallyCam](https://github.com/slowTake/RallyCam) Hive - Ai Powered Solutions | April 2026
 
 ---
+
+### Active & Deployed Projects 🚀
+
+Here are some of the projects I've built that are live and kicking:
+
+* [**OlliClimbs**](http://peternurmi.com) Climbing app for my friends
+* [**Sprout Squad**](http://peternurmi.com) Hive Campus watering app
+* [**NIS2 Scanner**](http://peternurmi.com) NIS2 Security Scanner
