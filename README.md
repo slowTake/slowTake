@@ -18,7 +18,7 @@ Unsurprisingly, hackathons have become my new obsession.
 
 ---
 
-<b>Checkout my team's latest hackathon entries:</b>
+### Checkout my team's latest hackathon entries:
 
 * 🏅 **Top 5 Finalist:** [Reilu (Sustainable Shopper)](https://github.com/slowTake/Reilu_SustainableShopper) Aalto/Microsoft - Ai for Good | May 2026
 * 🏆 **Top 3 Finish:** [RallyCam](https://github.com/slowTake/RallyCam) Hive - Ai Powered Solutions | April 2026
