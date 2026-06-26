@@ -31,4 +31,4 @@ Here are some of the projects I've built that are live and kicking:
 
 * [**OlliClimbs**](http://peternurmi.com) Full stack Climbing app for my friends
 * [**Sprout Squad**](http://peternurmi.com) Full stack Hive Campus watering app
-* [**NIS2 Scanner**](http://peternurmi.com) Full stack NIS2 Security Scanner
+* [**NIS2 Scanner**](http://peternurmi.com) Full stack selfhosted NIS2 Security Scanner
