@@ -30,6 +30,6 @@ Unsurprisingly, hackathons have become my new obsession.
 Here are some of the projects I've built that are live and kicking:
 
 * [**Portfolio Site (WIP)**](http://peternurmi.com) Portfolio hosted by Cloudflare
-* [**OlliClimbs**](http://peternurmi.com) Full stack Climbing app for my friends (Cloudflare + Supabase + Resend)
-* [**Sprout Squad**](http://peternurmi.com) Full stack Hive Campus watering app (CloudFlare + Supabase)
 * [**NIS2 Scanner**](https://peternurmi.com/tools/security-check) Full stack selfhosted NIS2 Security Scanner (VPS Hetzner / Rasberry Pi 4)
+* [**Sprout Squad**](http://peternurmi.com) Full stack Hive Campus watering app (CloudFlare + Supabase)
+* [**OlliClimbs**](http://peternurmi.com) Full stack Climbing app for my friends (Cloudflare + Supabase + Resend)
