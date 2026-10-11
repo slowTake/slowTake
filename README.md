@@ -10,6 +10,6 @@ Unsurprisingly, hackathons have become my new obsession.
 Here are some of the projects I've built that are live and kicking:
 
 * [**Portfolio Site (WIP)**](http://peternurmi.com) Portfolio hosted by Cloudflare
-* [**NIS2 Scanner**](https://peternurmi.com/tools/security-check) Full stack selfhosted NIS2 Security Scanner (VPS Hetzner / Rasberry Pi 4)
 * [**Sprout Squad**](https://peternurmi.com/projects/sprout-squad) Full stack Hive Campus watering app (CloudFlare + Supabase)
+* [**NIS2 Scanner**](https://peternurmi.com/tools/security-check) Full stack selfhosted NIS2 Security Scanner (VPS Hetzner / Rasberry Pi 4)
 * [**OlliClimbs**](https://peternurmi.com/projects/olliclimbs) Full stack Climbing app for my friends (Cloudflare + Supabase + Resend)
