@@ -1,15 +1,30 @@
-### About Me
-I'm currently a student at [Hive Helsinki](https://www.hive.fi/), which has honestly been one of the best and most intense learning experiences of my life. It’s a place where I've collaborated with incredible people from all walks of life and somehow, it turned me into the kind of person who willingly spends their weekends at school. 
+# Hi, I'm Peter 🐢
 
-Unsurprisingly, hackathons have become my new obsession.
+**Full-stack engineer building AI-agent systems** · Helsinki, Finland
+Engineer with a business background (BBA), learning at [Hive Helsinki](https://www.hive.fi/) (42 curriculum).
+Claude Certified Architect – Foundations · AI Implementation Consultant trainee at Loikka Solutions
 
----
+I learned to code from first principles: a raycasting engine and a bash clone in C, written by hand with no AI. That's why I can review what an AI agent writes for me today and know whether it's right.
 
-### Active & Deployed Projects
+## Featured projects
 
-Here are some of the projects I've built that are live and kicking:
+| Project | What it is | Stack |
+|---|---|---|
+| **[Florent Code League bot](https://peternurmi.com/projects/florent)** | Autonomous Python bots, top 10 and Nordic Battlecode finals in Stockholm | Python, pathfinding, multi-agent, custom telemetry |
+| **[askBob](https://peternurmi.com/projects/askbob)** | "Make Blueprints Talk": Junction × Stoa hackathon app, running on Aiven | Python, FastAPI, React, Aiven PostgreSQL + Valkey |
+| **[Lease Loop](https://peternurmi.com/projects/northfina)** | Circular leasing platform built solo in 24 hours (Northfina × Hive hackathon): live pricing, locked contracts, VAT-correct invoices | Next.js, TypeScript, Prisma, Vitest, CI/CD |
+| **[Sprout Squad](https://peternurmi.com/projects/sprout-squad)** | Campus plant-watering scheduler with Discord reminders and an MCP server so agents can read its data | React 19, TanStack Start, Supabase, Cloudflare |
 
-* [**Portfolio Site (WIP)**](http://peternurmi.com) Portfolio hosted by Cloudflare
-* [**Sprout Squad**](https://peternurmi.com/projects/sprout-squad) Full stack Hive Campus watering app (CloudFlare + Supabase)
-* [**NIS2 Scanner**](https://peternurmi.com/tools/security-check) Full stack selfhosted NIS2 Security Scanner (VPS Hetzner / Rasberry Pi 4)
-* [**OlliClimbs**](https://peternurmi.com/projects/olliclimbs) Full stack Climbing app for my friends (Cloudflare + Supabase + Resend)
+More: [NIS2 Scanner](https://peternurmi.com/tools/security-check) · [OlliClimbs](https://peternurmi.com/projects/olliclimbs) · [Reilu](https://peternurmi.com/projects/reilu) · [cvCompiler](https://peternurmi.com/projects/cvstudio)
+
+## What I work with
+
+**AI:** Claude Agent SDK · MCP and tool design · multi-agent orchestration · structured output
+**Backend:** Python, FastAPI, PostgreSQL, Supabase
+**Frontend:** React, Next.js, TypeScript, Tailwind, TanStack
+**Infra and tooling:** Cloudflare, Git/GitHub, CI/CD · C/C++ fundamentals
+
+## Currently
+
+- Building agentic automations for sales and customer-service workflows
+- Hackathons are my favorite way to learn fast
