@@ -18,7 +18,7 @@ I learned to code from first principles: a raycasting engine and a bash clone in
 
 More: [NIS2 Scanner](https://peternurmi.com/tools/security-check) · [OlliClimbs](https://peternurmi.com/projects/olliclimbs) · [Reilu](https://peternurmi.com/projects/reilu)
 
-## What I work with
+## Stack
 
 **Backend:** Python, FastAPI, PostgreSQL, Supabase
 
