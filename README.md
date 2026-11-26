@@ -1,6 +1,6 @@
 # Hi, I'm Peter 🐢
 
-**Full-stack engineer building AI-agent systems** · Helsinki, Finland
+**Full-stack engineer building Agent systems** · Helsinki, Finland
 Engineer with a business background (BBA), learning at [Hive Helsinki](https://www.hive.fi/) (42 curriculum).
 Claude Certified Architect – Foundations · AI Implementation Consultant trainee at Loikka Solutions
 
