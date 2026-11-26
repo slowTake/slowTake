@@ -1,7 +1,6 @@
 # Hi, I'm Peter 🐢
 
-**Full-stack engineer building Agent systems** · Helsinki, Finland
-Engineer with a business background (BBA), learnt from the best at [Hive Helsinki](https://www.hive.fi/) (42 curriculum).
+**Full-stack engineer with a business degree building Agentic systems** · learnt from the best at [Hive Helsinki](https://www.hive.fi/) (42 curriculum) · 
 [Claude Certified Architect](https://www.credly.com/badges/46fc7827-22fb-4558-9e2a-846ddb1b8348/public_url) & [Claude Certified Developer](https://www.credly.com/badges/47601458-bf99-4fbb-a3c4-945482ef0175/public_url) · AI Implementation Consultant trainee at Loikka Solutions
 
 I learned to code from first principles: a raycasting engine and a bash clone in C, written by hand with no AI. That's why I can review what an AI agent writes for me today and know whether it's right.
