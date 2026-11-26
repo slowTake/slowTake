@@ -30,4 +30,4 @@ More: [NIS2 Scanner](https://peternurmi.com/tools/security-check) · [OlliClimbs
 ## Currently
 
 - Building agentic automations for sales and customer-service workflows
-- Hackathons are my favorite way to learn fast
+- Farming Hackathons
