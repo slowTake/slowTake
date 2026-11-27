@@ -29,4 +29,4 @@ More: [NIS2 Scanner](https://peternurmi.com/tools/security-check) · [OlliClimbs
 ## Currently
 
 - Building agentic automations for sales and customer-service workflows
-- Farming Hackathons
+- Farming Hackathons 
